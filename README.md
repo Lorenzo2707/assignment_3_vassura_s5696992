@@ -44,4 +44,4 @@ Replace `<path_to_csv>`, `<path_to_cleaned_csv>`, `<column_names>`, and `<level>
 
 ## Authors
 
-**Lorenzo Vassura** - *Initial work* - [YourGitHub]
+**Lorenzo Vassura** - *Initial work* - [YourGitHub](https://github.com/Lorenzo2707/assignment_3_vassura_s5696992)
