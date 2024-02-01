@@ -39,9 +39,9 @@ def process_and_plot_data(csv_file_path, cleaned_file_path, columns, significanc
 
     # Set plot labels and title
     plt.xticks(ticks=range(1, len(actual_treatments) + 1), labels=actual_treatments)
-    plt.title("Effects of Treatments on Specified Measurement")
+    plt.title("Effects on Treatments on Specified Measurement")
     plt.xlabel("Treatments")
-    plt.ylabel("Specified Measurement")
+    plt.ylabel(df.columns.values[2])
 
     # Perform ANOVA to test for significant differences between groups
     f_statistic, p_value = stats.f_oneway(*data_to_plot_ordered)
