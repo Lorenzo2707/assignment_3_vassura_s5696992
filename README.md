@@ -44,4 +44,4 @@ Replace `<path_to_csv>`, `<path_to_cleaned_csv>`, `<column_names>`, and `<level>
 
 ## Authors
 
-**Lorenzo Vassura** - *Initial work* - [YourGitHub](http://example.com)
+**Lorenzo Vassura** - *Initial work* - [YourGitHub]
