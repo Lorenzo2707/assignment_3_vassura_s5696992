@@ -39,7 +39,7 @@ A step-by-step series of examples that tell you how to get a development environ
 Here is how to run the script and an example of commands you might use:
 
 ```
-python Assigment_3_Vassura.py --csv_file_path <path_to_csv> --cleaned_file_path <path_to_cleaned_csv> --columns <column_names> --significance_level <level>
+python assignment_3_vassura_s5696992.py --csv_file_path <path_to_csv> --cleaned_file_path <path_to_cleaned_csv> --columns <column_names> --significance_level <level>
 ```
 
 Replace `<path_to_csv>`, `<path_to_cleaned_csv>`, `<column_names>`, and `<level>` with your actual file paths, column names to include in the analysis, and the significance level for the statistical test, respectively.
